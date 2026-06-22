@@ -32,9 +32,8 @@ Album Date,Dance,Acoustic,Instrumental,Valence,Speech,Live,Loud (Db),Key,
 Time Signature,Spotify Track Id,ISRC,Explicit
 ```
 
-Herramientas recomendadas para exportar tu playlist:
-- [Exportify](https://github.com/watsonbox/exportify)
-- [Skifta](https://skifta.com)
+Herramienta recomendada para exportar playlists:
+- [Chosic](https://www.chosic.com/spotify-playlist-exporter/)
 
 ## 🚀 Uso
 
@@ -72,7 +71,3 @@ python spotlight_mix.py \
 ```bash
 pytest tests/ --cov=spotlight_mix --cov-report=term-missing
 ```
-
-## 📜 Licencia
-
-MIT
