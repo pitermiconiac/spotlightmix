@@ -1,0 +1,21 @@
+# Spotlight Mix — Dependencias Python
+# =====================================
+
+# Spotify Web API
+spotipy>=2.26.0
+
+# Manipulación de datos y CSV
+pandas>=2.1.0
+
+# Cálculo numérico (matriz de distancias vectorizada)
+numpy>=1.26.0
+
+# Fuzzy matching para deduplicación
+rapidfuzz>=3.5.0
+
+# Barra de progreso para batches de la API
+tqdm>=4.66.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
